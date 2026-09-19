@@ -1,8 +1,5 @@
 <h1 align='center'>Evidence Before Accuracy: An MRI–PET Fusion Network for Alzheimer's Disease Classification with Causal Regional Validation</h1>
 
-<div align='center'>
-    <a href='https://github.com/YOUR_GITHUB' target='_blank'>Author Name</a><sup>1</sup>&emsp;
-</div>
 
 <br>
 
