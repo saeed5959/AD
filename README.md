@@ -4,6 +4,7 @@
 <br>
 
 <div align='center'>
+    <a href='https://arxiv.org/abs/2609.34520'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
     <a href='https://huggingface.co/saeed-5959/AD'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a>
     <a href='https://adni.loni.usc.edu/'><img src='https://img.shields.io/badge/Dataset-ADNI-CFAFD4'></a>
     <a href='./LICENSE'><img src='https://img.shields.io/badge/License-MIT-green'></a>
